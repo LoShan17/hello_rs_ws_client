@@ -11,3 +11,4 @@ ref: https://stackoverflow.com/questions/19076719/how-do-i-convert-a-vector-of-b
 - "sigshfdgs".to_string()
 - serde_json::from_str expects a String whihc will have to be in the correct format or the parsing will panic otherwise
 added exmaples returning correct defaults for Pings and Pongs
+- TODO: try to gracefully handle disconnects?
